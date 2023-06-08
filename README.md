@@ -1,7 +1,6 @@
+![example event parameter](https://github.com/maryshirk/WoofWalker/actions/workflows/android.yml/badge.svg)
 # WoofWalker
 The app for walking a dog
-
-![example event parameter](https://github.com/maryshirk/WoofWalker/actions/workflows/android.yml/badge.svg)
 
 # Техническое задание
 ## Назначение разработки
